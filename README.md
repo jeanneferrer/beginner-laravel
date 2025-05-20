@@ -13,7 +13,6 @@
 ---
 
 ## 🛠 Features
-
 - Laravel 10+ Framework
 - REST API route using routes/api.php
 - Sample controller & JSON response
